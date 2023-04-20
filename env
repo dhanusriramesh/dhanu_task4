@@ -1,0 +1,9 @@
+MONGO_URI=mongodb+srv://aarthykaruna777:Aar24thy03@cluster0.4ky5ag3.mongodb.net/SIM1?retryWrites=true&w=majority 
+NODE_ENV=development
+JWT_SECRET=Aarthy@24
+
+EMAIL_HOST=smtp-mail.outlook.com
+EMAIL_USER=<outlook email id>
+EMAIL_PASS='<Password'
+
+FRONTEND_URL=http://localhost:3000
